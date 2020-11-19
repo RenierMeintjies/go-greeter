@@ -2,4 +2,4 @@
 
 ---
 
-[Follow the guide at](https://golang.org/doc/tutorial/create-module)
+[Follow the guide](https://golang.org/doc/tutorial/create-module)
